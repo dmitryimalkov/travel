@@ -45,10 +45,6 @@ header a:hover {
   background-color: rgb(255, 251, 0);
 }
 
-li {
-  text-align: right;
-}
-
 footer {
   background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
   padding: 36px 0;
@@ -56,7 +52,6 @@ footer {
 footer ul {
   display: flex;
   justify-content: center;
-
 }
 footer li {
   width: 80px;
